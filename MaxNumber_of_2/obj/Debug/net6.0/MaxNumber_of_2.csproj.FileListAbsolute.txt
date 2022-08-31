@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\MaxNumber_of_2.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\MaxNumber_of_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\MaxNumber_of_2.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\MaxNumber_of_2.AssemblyInfo.cs
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\MaxNumber_of_2.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\bin\Debug\net6.0\MaxNumber_of_2.exe
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\bin\Debug\net6.0\MaxNumber_of_2.deps.json
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\bin\Debug\net6.0\MaxNumber_of_2.runtimeconfig.json
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\bin\Debug\net6.0\MaxNumber_of_2.dll
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\bin\Debug\net6.0\MaxNumber_of_2.pdb
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\MaxNumber_of_2.dll
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\refint\MaxNumber_of_2.dll
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\MaxNumber_of_2.pdb
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\MaxNumber_of_2.genruntimeconfig.cache
+C:\GeekBrains\С#\C-Homework\MaxNumber_of_2\obj\Debug\net6.0\ref\MaxNumber_of_2.dll
