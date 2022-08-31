@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\number _even numbers.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\number _even numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\number _even numbers.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\number _even numbers.AssemblyInfo.cs
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\number _even numbers.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\C-Homework\number _even numbers\bin\Debug\net6.0\number _even numbers.exe
+C:\GeekBrains\С#\C-Homework\number _even numbers\bin\Debug\net6.0\number _even numbers.deps.json
+C:\GeekBrains\С#\C-Homework\number _even numbers\bin\Debug\net6.0\number _even numbers.runtimeconfig.json
+C:\GeekBrains\С#\C-Homework\number _even numbers\bin\Debug\net6.0\number _even numbers.dll
+C:\GeekBrains\С#\C-Homework\number _even numbers\bin\Debug\net6.0\number _even numbers.pdb
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\number _even numbers.dll
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\refint\number _even numbers.dll
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\number _even numbers.pdb
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\number _even numbers.genruntimeconfig.cache
+C:\GeekBrains\С#\C-Homework\number _even numbers\obj\Debug\net6.0\ref\number _even numbers.dll
